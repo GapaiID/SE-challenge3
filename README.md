@@ -1,5 +1,5 @@
 
-# React Test: Simple Perswonal Blog
+# React Test: Simple Personal Blog
 
 **Challenge**: This test asks the candidate to build a single-page application (SPA) for a simple personal blog. The goal is to test their understanding of JavaScript, React, CSS frameworks (specifically responsiveness/mobile-friendliness), Git version control, and their ability to write clean, efficient, and maintainable code.
 
@@ -37,7 +37,7 @@ You are tasked with building the frontend for a simple personal blog. User can r
 - Effective use of comments and documentation.
 - Adherence to best practices for code structure and indentation.
 ### Bonus Points:
-- Create your own mock-up API from the other [challenge] (https://github.com/GapaiID/SE-challenge4) to fetch the data.
+- Create your own mock-up API from the other [challenge](https://github.com/GapaiID/SE-challenge4) to fetch the data.
 - Implementation of mobile responsive design.
 - Implementation of additional features beyond the basic requirements.
 - Creative and innovative solutions to technical challenges.
